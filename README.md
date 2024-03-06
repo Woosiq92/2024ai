@@ -5,7 +5,3 @@
 
 https://colab.research.google.com/drive/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p?authuser=1
 
-
-피지컬 컴퓨팅 
-
-https://m.blog.naver.com/icbanq/222869451063
