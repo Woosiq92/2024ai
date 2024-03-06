@@ -7,4 +7,4 @@ https://colab.research.google.com/drive/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p?authus
 
 2. 변수와 자료형
 
-https://colab.research.google.com/drive/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R#scrollTo=MQPNVXk1GFug
+https://drive.google.com/file/d/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R/view?usp=sharing
