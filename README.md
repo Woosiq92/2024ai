@@ -5,3 +5,6 @@
 
 https://colab.research.google.com/drive/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p?authuser=1
 
+2. 변수와 자료형
+
+https://colab.research.google.com/drive/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R#scrollTo=MQPNVXk1GFug
