@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R/view?usp=shari
 3. 연산
 https://drive.google.com/file/d/149_ZyAiXdB40DkGNvaZi1WzbYkM-oG7A/view?usp=sharing
 
-4.주석
+4. 주석
 https://drive.google.com/file/d/1-rZDJqYqv0KumTdWlDVuKZJVhVLbufag/view?usp=sharing
 
 1-1) 변수와 자료형 퀴즈 
