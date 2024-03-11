@@ -7,7 +7,6 @@ https://drive.google.com/file/d/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p/view?usp=shari
 # 1. 변수와 자료형 
 
 2. 변수와 자료형 교안 
-
 https://drive.google.com/file/d/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R/view?usp=sharing
 
 3. 연산
