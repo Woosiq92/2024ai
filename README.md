@@ -23,9 +23,6 @@ https://drive.google.com/file/d/1nEv2FsO-uytj5edWZ_hF69_POOU8Q3xe/view?usp=shari
 
 # 2. 제어구조 
 
-5.  함수
-https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
-
 6. 조건문
 https://drive.google.com/file/d/126OZ-40ofNj6TWwP8gsRPjhisyJSm0H7/view?usp=sharing
 
@@ -37,6 +34,11 @@ https://drive.google.com/file/d/1vBAtHe4R-svTJvM3SLxRNUUR1PFhGOBL/view?usp=shari
 
 9. 문자열 응용
 https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=sharing
+
+# 함수 
+
+5.  함수
+https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
 
 10. 패키지와 import
 https://drive.google.com/file/d/12Qmegc_DdV-lMv6At44mkDnilAkVxmOG/view?usp=sharing
