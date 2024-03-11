@@ -45,27 +45,21 @@ https://drive.google.com/file/d/12Qmegc_DdV-lMv6At44mkDnilAkVxmOG/view?usp=shari
 # Numpy 실습 
 
 1. import ~ ndarray
-
 https://drive.google.com/file/d/1te378LaRp_YAWtl3ttaSr5ao72-J_iud/view?usp=sharing
 
 2. 인덱싱
-
 https://drive.google.com/file/d/1c7tgvIVM-k17Wts6VLw_Mlc6KgVC_x8f/view?usp=sharing
 
 3. arange
-
 https://drive.google.com/file/d/1lNBOYa1viXtHeyj55IJuobdo1Q7aBtlD/view?usp=sharing
 
 4. 정렬
-
 https://drive.google.com/file/d/1nsfgS3oPiYHSbCeM7bVj2JwoZzp4_KZy/view?usp=sharing
 
-5. 행렬
-
+6. 행렬
 https://drive.google.com/file/d/1vddJiY7ARvxMqLWasbA6uUXKDB5aIhca/view?usp=sharing
 
 6. Broadcasting
-
 https://drive.google.com/file/d/1v2O16sQ4p0Umjle3tivtjX4z7gj5UBsI/view?usp=sharing
 
 
