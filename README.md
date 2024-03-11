@@ -23,21 +23,21 @@ https://drive.google.com/file/d/1nEv2FsO-uytj5edWZ_hF69_POOU8Q3xe/view?usp=shari
 
 # 2. 제어구조 
 
-6. 조건문
+5. 조건문
 https://drive.google.com/file/d/126OZ-40ofNj6TWwP8gsRPjhisyJSm0H7/view?usp=sharing
 
-7. 반복문
+6. 반복문
 https://drive.google.com/file/d/1p5cusx7kolitydMu3wP029lYJMm7nshP/view?usp=sharing
 
-8. list_comprehension
+7. list_comprehension
 https://drive.google.com/file/d/1vBAtHe4R-svTJvM3SLxRNUUR1PFhGOBL/view?usp=sharing
 
-9. 문자열 응용
+8. 문자열 응용
 https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=sharing
 
 # 함수 
 
-5.  함수
+9.  함수
 https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
 
 10. 패키지와 import
