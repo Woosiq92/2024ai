@@ -4,28 +4,28 @@
 
 https://drive.google.com/file/d/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p/view?usp=sharing
 
-2. 변수와 자료형
+# 1. 변수와 자료형 
+
+2. 변수와 자료형 교안 
 
 https://drive.google.com/file/d/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R/view?usp=sharing
 
-2-1. 변수와 자료형 퀴즈 
-https://drive.google.com/file/d/1s6qT9YzMR_PCbx2f7JLYKWLUYBEAm2z-/view?usp=sharing
-
-
-2-2. 변수와 자료형 연습문제 
-https://drive.google.com/file/d/1nEv2FsO-uytj5edWZ_hF69_POOU8Q3xe/view?usp=sharing
-
 3. 연산
-
 https://drive.google.com/file/d/149_ZyAiXdB40DkGNvaZi1WzbYkM-oG7A/view?usp=sharing
 
 4. 함수
-
 https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
 
 5. 주석
-  
 https://drive.google.com/file/d/1-rZDJqYqv0KumTdWlDVuKZJVhVLbufag/view?usp=sharing
+
+1-1) 변수와 자료형 퀴즈 
+https://drive.google.com/file/d/1s6qT9YzMR_PCbx2f7JLYKWLUYBEAm2z-/view?usp=sharing
+
+1-2) 변수와 자료형 연습문제 
+https://drive.google.com/file/d/1nEv2FsO-uytj5edWZ_hF69_POOU8Q3xe/view?usp=sharing
+
+# 2. 제어구조 
 
 6. 조건문
 
