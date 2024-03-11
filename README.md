@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1nEv2FsO-uytj5edWZ_hF69_POOU8Q3xe/view?usp=shari
 https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
 
 
-7. 조건문
+6. 조건문
 
 https://drive.google.com/file/d/126OZ-40ofNj6TWwP8gsRPjhisyJSm0H7/view?usp=sharing
 
