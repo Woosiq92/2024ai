@@ -13,10 +13,7 @@ https://drive.google.com/file/d/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R/view?usp=shari
 3. 연산
 https://drive.google.com/file/d/149_ZyAiXdB40DkGNvaZi1WzbYkM-oG7A/view?usp=sharing
 
-4. 함수
-https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
-
-5. 주석
+4.주석
 https://drive.google.com/file/d/1-rZDJqYqv0KumTdWlDVuKZJVhVLbufag/view?usp=sharing
 
 1-1) 변수와 자료형 퀴즈 
@@ -27,7 +24,11 @@ https://drive.google.com/file/d/1nEv2FsO-uytj5edWZ_hF69_POOU8Q3xe/view?usp=shari
 
 # 2. 제어구조 
 
-6. 조건문
+5.  함수
+https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
+
+
+7. 조건문
 
 https://drive.google.com/file/d/126OZ-40ofNj6TWwP8gsRPjhisyJSm0H7/view?usp=sharing
 
