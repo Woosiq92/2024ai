@@ -42,6 +42,7 @@ https://drive.google.com/file/d/1w-2d9RJISc4URwrnrDekAoTZJkcEsbth/view?usp=shari
 두 시험 모두 합격하면 최종 합격입니다!
 
 - 출력결과
+
 영어시험 점수를 입력하세요 : 85
 
 수학시험 점수를 입력하세요 : 75
