@@ -34,6 +34,8 @@ https://drive.google.com/file/d/1T7Xz4dyWebniiq1cxR3Pv8DtV1LlOw-G/view?usp=shari
 5-2. 조건문 퀴즈 
 https://drive.google.com/file/d/1w-2d9RJISc4URwrnrDekAoTZJkcEsbth/view?usp=sharing
 
+5-3 조건문 연습문제 
+
 ## 반복문 
 
 6. 반복문
