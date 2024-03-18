@@ -35,6 +35,16 @@ https://drive.google.com/file/d/1T7Xz4dyWebniiq1cxR3Pv8DtV1LlOw-G/view?usp=shari
 https://drive.google.com/file/d/1w-2d9RJISc4URwrnrDekAoTZJkcEsbth/view?usp=sharing
 
 5-3 조건문 연습문제 
+영어시험과 수학시험이 있습니다.
+두 시험 모두 합격하려면 80점 이상을 받아야 합니다.
+두 시험을 모두 합격하지 못하면 탈락이며, 재시험의 기회가 없습니다.
+두 시험 중 한 시험만 통과하면 재시험의 기회가 주어집니다.
+두 시험 모두 합격하면 최종 합격입니다!
+
+- 출력결과
+영어시험 점수를 입력하세요 : 85
+수학시험 점수를 입력하세요 : 75
+재시험 기회제공
 
 ## 반복문 
 
