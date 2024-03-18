@@ -31,10 +31,7 @@ https://drive.google.com/file/d/126OZ-40ofNj6TWwP8gsRPjhisyJSm0H7/view?usp=shari
 5-1. 조건문 예제
 https://drive.google.com/file/d/1T7Xz4dyWebniiq1cxR3Pv8DtV1LlOw-G/view?usp=sharing
 
-5-2. 조건문 퀴즈 
-https://drive.google.com/file/d/1w-2d9RJISc4URwrnrDekAoTZJkcEsbth/view?usp=sharing
-
-5-3 연습문제 : 
+5-1-1 연습문제 : 
 영어시험과 수학시험이 있습니다.
 두 시험 모두 합격하려면 80점 이상을 받아야 합니다.
 두 시험을 모두 합격하지 못하면 탈락이며, 재시험의 기회가 없습니다.
@@ -48,6 +45,13 @@ https://drive.google.com/file/d/1w-2d9RJISc4URwrnrDekAoTZJkcEsbth/view?usp=shari
 수학시험 점수를 입력하세요 : 75
 
 재시험 기회제공
+
+5-2. 조건문 퀴즈 문제만
+https://drive.google.com/file/d/1OxLAU9Fakw-8BSdqjHp8aQNJYMO_ufd0/view?usp=sharing
+
+5-2-1. 조건문 퀴즈 답안 
+https://drive.google.com/file/d/1w-2d9RJISc4URwrnrDekAoTZJkcEsbth/view?usp=sharing
+
 
 ## 반복문 
 
