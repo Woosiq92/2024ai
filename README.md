@@ -43,6 +43,9 @@ https://drive.google.com/file/d/1w-2d9RJISc4URwrnrDekAoTZJkcEsbth/view?usp=shari
 6. 반복문
 https://drive.google.com/file/d/1p5cusx7kolitydMu3wP029lYJMm7nshP/view?usp=sharing
 
+6-1. 반복문 예제 
+https://drive.google.com/file/d/1p1d_98Hi-ooMTWxEqEyZ5lBYpJeAkotc/view?usp=sharing
+
 7. list_comprehension
 https://drive.google.com/file/d/1vBAtHe4R-svTJvM3SLxRNUUR1PFhGOBL/view?usp=sharing
 
