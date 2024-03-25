@@ -63,7 +63,13 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 9.  함수
 https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
 
-10. 패키지와 import
+9-1. 함수 예제 
+
+9-2. 함수 퀴즈 
+
+9-3. 함수 연습문제 
+
+11. 패키지와 import
 https://drive.google.com/file/d/12Qmegc_DdV-lMv6At44mkDnilAkVxmOG/view?usp=sharing
 
 
