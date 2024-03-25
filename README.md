@@ -46,6 +46,12 @@ https://drive.google.com/file/d/1p5cusx7kolitydMu3wP029lYJMm7nshP/view?usp=shari
 6-1. 반복문 예제 
 https://drive.google.com/file/d/1p1d_98Hi-ooMTWxEqEyZ5lBYpJeAkotc/view?usp=sharing
 
+6-2 반복문 퀴즈 
+https://drive.google.com/file/d/1u7S3spbqABgPLWm0T-BEzT5yEOkfhg9x/view?usp=sharing
+
+6-3 반복문 연습문제 
+https://drive.google.com/file/d/1Sz8leiDeoLUYx0lTaT7OvUk79mJiQNdq/view?usp=sharing
+
 7. list_comprehension
 https://drive.google.com/file/d/1vBAtHe4R-svTJvM3SLxRNUUR1PFhGOBL/view?usp=sharing
 
