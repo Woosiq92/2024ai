@@ -64,10 +64,14 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 https://drive.google.com/file/d/18FxhZz7AORZTiPmGD6v0a8sftaTeFS0v/view?usp=sharing
 
 9-1. 함수 예제 
+https://drive.google.com/file/d/1H1pkE_bHxKf-tqGbqUR8qs-l6W1uin2n/view?usp=sharing
 
 9-2. 함수 퀴즈 
+https://drive.google.com/file/d/1BsuxH9FjUzEUbjZQjgEGmq0QnoOOUse9/view?usp=sharing
 
 9-3. 함수 연습문제 
+https://drive.google.com/file/d/1hP1Uo9LBQLFmG6TXG83I0GYVOtyY6Bxh/view?usp=sharing
+
 
 11. 패키지와 import
 https://drive.google.com/file/d/12Qmegc_DdV-lMv6At44mkDnilAkVxmOG/view?usp=sharing
