@@ -61,7 +61,7 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 # 함수 
 
 9.  함수
-https://drive.google.com/file/d/1J3UCvLj-GDYGy-ftFfKld7a7I5bwbEGp/view?usp=sharing
+https://drive.google.com/file/d/18FxhZz7AORZTiPmGD6v0a8sftaTeFS0v/view?usp=sharing
 
 9-1. 함수 예제 
 
