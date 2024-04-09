@@ -41,16 +41,16 @@ https://drive.google.com/file/d/1OxLAU9Fakw-8BSdqjHp8aQNJYMO_ufd0/view?usp=shari
 ## 반복문 
 
 6. 반복문
-https://drive.google.com/file/d/1p5cusx7kolitydMu3wP029lYJMm7nshP/view?usp=sharing
+* https://drive.google.com/file/d/1p5cusx7kolitydMu3wP029lYJMm7nshP/view?usp=sharing
 
 6-1. 반복문 예제 
-https://drive.google.com/file/d/1p1d_98Hi-ooMTWxEqEyZ5lBYpJeAkotc/view?usp=sharing
+* https://drive.google.com/file/d/1p1d_98Hi-ooMTWxEqEyZ5lBYpJeAkotc/view?usp=sharing
 
 6-2 반복문 퀴즈 
-https://drive.google.com/file/d/1aKqHjJmRN38B3cjcOSEwFOfk2zyJ1BAC/view?usp=sharing
+* https://drive.google.com/file/d/1aKqHjJmRN38B3cjcOSEwFOfk2zyJ1BAC/view?usp=sharing
 
 6-3 반복문 연습문제 
-https://drive.google.com/file/d/1Sz8leiDeoLUYx0lTaT7OvUk79mJiQNdq/view?usp=sharing
+* https://drive.google.com/file/d/1Sz8leiDeoLUYx0lTaT7OvUk79mJiQNdq/view?usp=sharing
 
 7. list_comprehension
 https://drive.google.com/file/d/1vBAtHe4R-svTJvM3SLxRNUUR1PFhGOBL/view?usp=sharing
@@ -61,16 +61,16 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 # 함수 
 
 9.  함수
-https://drive.google.com/file/d/18FxhZz7AORZTiPmGD6v0a8sftaTeFS0v/view?usp=sharing
+* https://drive.google.com/file/d/18FxhZz7AORZTiPmGD6v0a8sftaTeFS0v/view?usp=sharing
 
 9-1. 함수 예제 
-https://drive.google.com/file/d/1H1pkE_bHxKf-tqGbqUR8qs-l6W1uin2n/view?usp=sharing
+* https://drive.google.com/file/d/1H1pkE_bHxKf-tqGbqUR8qs-l6W1uin2n/view?usp=sharing
 
 9-2. 함수 퀴즈 
-https://drive.google.com/file/d/1BsuxH9FjUzEUbjZQjgEGmq0QnoOOUse9/view?usp=sharing
+* https://drive.google.com/file/d/1BsuxH9FjUzEUbjZQjgEGmq0QnoOOUse9/view?usp=sharing
 
 9-3. 함수 연습문제 
-https://drive.google.com/file/d/1hP1Uo9LBQLFmG6TXG83I0GYVOtyY6Bxh/view?usp=sharing
+* https://drive.google.com/file/d/1hP1Uo9LBQLFmG6TXG83I0GYVOtyY6Bxh/view?usp=sharing
 
 
 11. 패키지와 import
