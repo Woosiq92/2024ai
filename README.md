@@ -74,7 +74,7 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 
 
 11. 패키지와 import
-https://drive.google.com/file/d/12Qmegc_DdV-lMv6At44mkDnilAkVxmOG/view?usp=sharing
+https://drive.google.com/file/d/1qZD7sfKzQAhdlnlxqkpJnAjbZX3aBB7o/view?usp=sharing
 
 
 # Numpy 실습 
