@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p/view?usp=shari
 
 # 1. 변수와 자료형 
 
-2. 변수와 자료형 교안 
+2. 변수와 자료형 교안 (제출)
 * https://drive.google.com/file/d/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R/view?usp=sharing
 
 3. 연산
@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1-rZDJqYqv0KumTdWlDVuKZJVhVLbufag/view?usp=shari
 
 ## 조건문
 
-5. 조건문
+5. 조건문 ( 제출 ) 
 * https://drive.google.com/file/d/126OZ-40ofNj6TWwP8gsRPjhisyJSm0H7/view?usp=sharing
 
 5-1. 조건문 예제
@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1OxLAU9Fakw-8BSdqjHp8aQNJYMO_ufd0/view?usp=shari
 
 ## 반복문 
 
-6. 반복문
+6. 반복문 ( 제출 )
 * https://drive.google.com/file/d/1p5cusx7kolitydMu3wP029lYJMm7nshP/view?usp=sharing
 
 6-1. 반복문 예제 
@@ -60,7 +60,7 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 
 # 함수 
 
-9.  함수
+9.  함수 ( 제출 )
 * https://drive.google.com/file/d/18FxhZz7AORZTiPmGD6v0a8sftaTeFS0v/view?usp=sharing
 
 9-1. 함수 예제 
@@ -73,7 +73,7 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 * https://drive.google.com/file/d/1hP1Uo9LBQLFmG6TXG83I0GYVOtyY6Bxh/view?usp=sharing
 
 
-11. 패키지와 import
+11. 패키지와 import ( 제출 )
 https://drive.google.com/file/d/1qZD7sfKzQAhdlnlxqkpJnAjbZX3aBB7o/view?usp=sharing
 
 
