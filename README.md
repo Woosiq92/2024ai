@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p/view?usp=shari
 # 1. 변수와 자료형 
 
 2. 변수와 자료형 교안 (제출)
-* https://drive.google.com/file/d/1kZ_YcM9kc4YFceGxxRNrhaXWrVTW0d8R/view?usp=sharing
+* https://drive.google.com/file/d/1yBmIzryiPcaXGwianhBU6DbpTJrrw6H4/view?usp=sharing
 
 3. 연산
 * https://drive.google.com/file/d/149_ZyAiXdB40DkGNvaZi1WzbYkM-oG7A/view?usp=sharing
