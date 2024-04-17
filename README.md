@@ -80,19 +80,19 @@ https://drive.google.com/file/d/1qZD7sfKzQAhdlnlxqkpJnAjbZX3aBB7o/view?usp=shari
 # Numpy 실습 
 
 1. import ~ ndarray
-https://drive.google.com/file/d/1te378LaRp_YAWtl3ttaSr5ao72-J_iud/view?usp=sharing
+https://drive.google.com/file/d/1v4fqvmuzIsROr6uNY106LmIzrvp9g310/view?usp=sharing
 
 2. 인덱싱
-https://drive.google.com/file/d/1c7tgvIVM-k17Wts6VLw_Mlc6KgVC_x8f/view?usp=sharing
+https://drive.google.com/file/d/1eYC_0bQhlcCC-tSgc4s0kzS-HBu59uYV/view?usp=sharing
 
 3. arange
-https://drive.google.com/file/d/1lNBOYa1viXtHeyj55IJuobdo1Q7aBtlD/view?usp=sharing
+https://drive.google.com/file/d/1YITL3EIeL_i2vx3HPXsiZQeMhMhpb-wn/view?usp=sharing
 
 4. 정렬
-https://drive.google.com/file/d/1nsfgS3oPiYHSbCeM7bVj2JwoZzp4_KZy/view?usp=sharing
+https://drive.google.com/file/d/1PHUYRfi8Ml41-J0hmVtRSNwnF-CJXRel/view?usp=sharing
 
 6. 행렬
-https://drive.google.com/file/d/1vddJiY7ARvxMqLWasbA6uUXKDB5aIhca/view?usp=sharing
+https://drive.google.com/file/d/1uADg9M88iBEOsAcZODaD3rYGnQaNlpgS/view?usp=sharing
 
 6. Broadcasting
 https://drive.google.com/file/d/1v2O16sQ4p0Umjle3tivtjX4z7gj5UBsI/view?usp=sharing
