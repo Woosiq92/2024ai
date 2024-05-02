@@ -85,7 +85,7 @@ https://drive.google.com/file/d/1v4fqvmuzIsROr6uNY106LmIzrvp9g310/view?usp=shari
 2. 인덱싱
 https://drive.google.com/file/d/1eYC_0bQhlcCC-tSgc4s0kzS-HBu59uYV/view?usp=sharing
 
-3. arange
+3. arange (x) 
 https://drive.google.com/file/d/1YITL3EIeL_i2vx3HPXsiZQeMhMhpb-wn/view?usp=sharing
 
 4. 정렬
