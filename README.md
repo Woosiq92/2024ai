@@ -99,12 +99,37 @@ https://drive.google.com/file/d/1BTgEyTfC7Xt8cn3Xfq2nuoTeyjufFYzB/view?usp=shari
 
 # PANDAS 기초 
 
-1. pandas와 series
+1. ch1.pandas와 series
 https://drive.google.com/file/d/1C5uDGsocJ0_Jxgy02Q9mPufCM9UG4_1R/view?usp=sharing
 
-2. 통계값, 요약정보, 정렬
+2. ch1.통계값, 요약정보, 정렬
 https://drive.google.com/file/d/1zgoUI7mZQRo7rzoqVW4w12-L2cNZMYEY/view?usp=sharing
 
-3. selection ~ 결측값 색인
+3. ch1.selection ~ 결측값 색인
 https://drive.google.com/file/d/1rG0BWzWytHZnq8gz6W6N1yhX4D9_qbPY/view?usp=sharing
+
+4. ch.2 결측값 채우기
+https://drive.google.com/file/d/1UihopG9xBz4TuinCqxRIsi81s7D51pYs/view?usp=sharing
+
+5. ch.2 DataFrame
+https://drive.google.com/file/d/1O50gfpX813VPWBURnLc7Sf6Fckyc5UiL/view?usp=sharing
+
+6. ch.2 Series~datatime
+https://drive.google.com/file/d/1pSx1TZZ3KYHcABeTzxDtEM1QvevH1ZsF/view?usp=sharing
+
+7.ch.2 apply~lambda
+https://drive.google.com/file/d/1lfZeVHHz6v3-tcpt-ZJ96KTakAZJffsl/view?usp=sharing
+
+8. ch.2 데이터프레임의산술연산
+https://drive.google.com/file/d/1dp6PlgUG3v2Ytbp4cjhbKtMJL6GPgADM/view?usp=sharing
+
+9. ch.2 select~원핫인코딩
+https://drive.google.com/file/d/1-3VluYL7IKdRz0ClSQLWET8A51bdPcAV/view?usp=sharing
+
+10. ch.2 부동산데이터
+https://drive.google.com/file/d/1OxMfaDpvD72xDT-bBurzDNciBOXxuI_6/view?usp=sharing
+
+11. ch.3 데이터시각화
+https://drive.google.com/file/d/1DGW5gB0VewKC41IfuwUPqBq-mHoZXgY6/view?usp=sharing
+
 
