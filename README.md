@@ -77,7 +77,7 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 https://drive.google.com/file/d/1qZD7sfKzQAhdlnlxqkpJnAjbZX3aBB7o/view?usp=sharing
 
 
-# Numpy 실습 
+# Numpy 
 
 1. import ~ ndarray
 https://drive.google.com/file/d/1v4fqvmuzIsROr6uNY106LmIzrvp9g310/view?usp=sharing
