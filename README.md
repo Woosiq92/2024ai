@@ -99,3 +99,12 @@ https://drive.google.com/file/d/1BTgEyTfC7Xt8cn3Xfq2nuoTeyjufFYzB/view?usp=shari
 
 # PANDAS 기초 
 
+1. pandas와 series
+https://drive.google.com/file/d/1C5uDGsocJ0_Jxgy02Q9mPufCM9UG4_1R/view?usp=sharing
+
+2. 통계값, 요약정보, 정렬
+https://drive.google.com/file/d/1zgoUI7mZQRo7rzoqVW4w12-L2cNZMYEY/view?usp=sharing
+
+3. selection ~ 결측값 색인
+https://drive.google.com/file/d/1rG0BWzWytHZnq8gz6W6N1yhX4D9_qbPY/view?usp=sharing
+
