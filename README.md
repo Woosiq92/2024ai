@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1pyVLSiH0H7fGp1hazSoa0ScdLWLPYU8p/view?usp=shari
 
 # 1. 변수와 자료형 
 
-2. 변수와 자료형 교안 (제출)
+2. 변수와 자료형 교안 (제출1)
 * https://drive.google.com/file/d/1yBmIzryiPcaXGwianhBU6DbpTJrrw6H4/view?usp=sharing
 
 3. 연산
@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1-rZDJqYqv0KumTdWlDVuKZJVhVLbufag/view?usp=shari
 
 ## 조건문
 
-5. 조건문 ( 제출 ) 
+5. 조건문 ( 제출2 ) 
 * https://drive.google.com/file/d/126OZ-40ofNj6TWwP8gsRPjhisyJSm0H7/view?usp=sharing
 
 5-1. 조건문 예제
@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1OxLAU9Fakw-8BSdqjHp8aQNJYMO_ufd0/view?usp=shari
 
 ## 반복문 
 
-6. 반복문 ( 제출 )
+6. 반복문 ( 제출3 )
 * https://drive.google.com/file/d/1p5cusx7kolitydMu3wP029lYJMm7nshP/view?usp=sharing
 
 6-1. 반복문 예제 
@@ -60,7 +60,7 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 
 # 함수 
 
-9.  함수 ( 제출 )
+9.  함수 ( 제출4 )
 * https://drive.google.com/file/d/18FxhZz7AORZTiPmGD6v0a8sftaTeFS0v/view?usp=sharing
 
 9-1. 함수 예제 
@@ -73,16 +73,16 @@ https://drive.google.com/file/d/1vUx9Ym87AAKI-wm2lDtrO5-MnJoJuNM5/view?usp=shari
 * https://drive.google.com/file/d/1hP1Uo9LBQLFmG6TXG83I0GYVOtyY6Bxh/view?usp=sharing
 
 
-11. 패키지와 import ( 제출 )
+11. 패키지와 import ( 제출5 )
 https://drive.google.com/file/d/1qZD7sfKzQAhdlnlxqkpJnAjbZX3aBB7o/view?usp=sharing
 
 
 # Numpy 
 
-1. import ~ ndarray
+1. import ~ ndarray (제출6)
 https://drive.google.com/file/d/1v4fqvmuzIsROr6uNY106LmIzrvp9g310/view?usp=sharing
 
-2. 인덱싱
+2. 인덱싱 
 https://drive.google.com/file/d/1eYC_0bQhlcCC-tSgc4s0kzS-HBu59uYV/view?usp=sharing
 
 3. arange (x) 
@@ -91,7 +91,7 @@ https://drive.google.com/file/d/1YITL3EIeL_i2vx3HPXsiZQeMhMhpb-wn/view?usp=shari
 4. 정렬
 https://drive.google.com/file/d/1PHUYRfi8Ml41-J0hmVtRSNwnF-CJXRel/view?usp=sharing
 
-6. 행렬
+6. 행렬 (제출7)
 https://drive.google.com/file/d/1uADg9M88iBEOsAcZODaD3rYGnQaNlpgS/view?usp=sharing
 
 6. Broadcasting
@@ -102,13 +102,13 @@ https://drive.google.com/file/d/1BTgEyTfC7Xt8cn3Xfq2nuoTeyjufFYzB/view?usp=shari
 1. ch1.pandas와 series
 https://drive.google.com/file/d/1C5uDGsocJ0_Jxgy02Q9mPufCM9UG4_1R/view?usp=sharing
 
-2. ch1.통계값, 요약정보, 정렬
+2. ch1.통계값, 요약정보, 정렬 (제출8)
 https://drive.google.com/file/d/1zgoUI7mZQRo7rzoqVW4w12-L2cNZMYEY/view?usp=sharing
 
 3. ch1.selection ~ 결측값 색인
 https://drive.google.com/file/d/1rG0BWzWytHZnq8gz6W6N1yhX4D9_qbPY/view?usp=sharing
 
-4. ch.2 결측값 채우기
+4. ch.2 결측값 채우기 (제출9)
 https://drive.google.com/file/d/1UihopG9xBz4TuinCqxRIsi81s7D51pYs/view?usp=sharing
 
 5. ch.2 DataFrame
@@ -126,7 +126,7 @@ https://drive.google.com/file/d/1dp6PlgUG3v2Ytbp4cjhbKtMJL6GPgADM/view?usp=shari
 9. ch.2 select~원핫인코딩
 https://drive.google.com/file/d/1-3VluYL7IKdRz0ClSQLWET8A51bdPcAV/view?usp=sharing
 
-10. ch.2 부동산데이터
+10. ch.2 부동산데이터 (제출10) 
 https://drive.google.com/file/d/1OxMfaDpvD72xDT-bBurzDNciBOXxuI_6/view?usp=sharing
 
 11. ch.3 데이터시각화
