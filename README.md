@@ -79,10 +79,10 @@ https://drive.google.com/file/d/1qZD7sfKzQAhdlnlxqkpJnAjbZX3aBB7o/view?usp=shari
 
 # Numpy 
 
-1. import ~ ndarray (제출6)
+1. import ~ ndarray 
 https://drive.google.com/file/d/1v4fqvmuzIsROr6uNY106LmIzrvp9g310/view?usp=sharing
 
-2. 인덱싱 
+2. 인덱싱 (제출6) 
 https://drive.google.com/file/d/1eYC_0bQhlcCC-tSgc4s0kzS-HBu59uYV/view?usp=sharing
 
 3. arange (x) 
