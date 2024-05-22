@@ -132,4 +132,11 @@ https://drive.google.com/file/d/1OxMfaDpvD72xDT-bBurzDNciBOXxuI_6/view?usp=shari
 11. ch.3 데이터시각화
 https://drive.google.com/file/d/1DGW5gB0VewKC41IfuwUPqBq-mHoZXgY6/view?usp=sharing
 
+# 머신러닝 사이킷런 라이브러리 
+
+1. sklearn - 타이타닉 생존자 예측 데이터 전처리 
+
+https://drive.google.com/file/d/1ZBS-QGVVUT-ymTD1F-Vu5WsT2P91_oli/view?usp=sharing
+
+
 
