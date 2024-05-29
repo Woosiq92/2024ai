@@ -142,4 +142,7 @@ https://drive.google.com/file/d/1ZBS-QGVVUT-ymTD1F-Vu5WsT2P91_oli/view?usp=shari
 
  https://drive.google.com/file/d/1cOBU5Avwa07hhyCQmy5c9s4vtm7ULHuY/view?usp=sharing
 
+3. sklearn - 회귀모델_보스턴주택가격예측
+
+https://drive.google.com/file/d/1-bpYtKXN49aaMggnJqREAK82MCdY3wPE/view?usp=sharing
 
