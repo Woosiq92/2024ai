@@ -138,5 +138,8 @@ https://drive.google.com/file/d/1DGW5gB0VewKC41IfuwUPqBq-mHoZXgY6/view?usp=shari
 
 https://drive.google.com/file/d/1ZBS-QGVVUT-ymTD1F-Vu5WsT2P91_oli/view?usp=sharing
 
+2. sklearn - 붓꽃데이터 분류
+
+ https://drive.google.com/file/d/1cOBU5Avwa07hhyCQmy5c9s4vtm7ULHuY/view?usp=sharing
 
 
