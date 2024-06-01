@@ -146,3 +146,7 @@ https://drive.google.com/file/d/1ZBS-QGVVUT-ymTD1F-Vu5WsT2P91_oli/view?usp=shari
 
 https://drive.google.com/file/d/1-bpYtKXN49aaMggnJqREAK82MCdY3wPE/view?usp=sharing
 
+4. sklearn - 앙상블 모델
+
+https://drive.google.com/file/d/1g1SDg9YKAWCmqg0T8DRid9Zc9SJRlcpp/view?usp=sharing
+
