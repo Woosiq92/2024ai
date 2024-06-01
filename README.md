@@ -153,3 +153,10 @@ https://drive.google.com/file/d/1g1SDg9YKAWCmqg0T8DRid9Zc9SJRlcpp/view?usp=shari
 5. sklearn - 비지도학습
    
 https://drive.google.com/file/d/1SS2jLQBQtS-sAzFxwraNvR0ea7FVJJxb/view?usp=sharing
+
+# 데이터 분석 예제 
+
+1. 유튜브 인기 채널 및 영상 분석
+
+https://drive.google.com/file/d/1_yD3-og79scBFQMsz03--qjUP3hRgF8d/view?usp=sharing
+
