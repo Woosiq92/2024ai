@@ -151,5 +151,5 @@ https://drive.google.com/file/d/1-bpYtKXN49aaMggnJqREAK82MCdY3wPE/view?usp=shari
 https://drive.google.com/file/d/1g1SDg9YKAWCmqg0T8DRid9Zc9SJRlcpp/view?usp=sharing
 
 5. sklearn - 비지도학습
-6. 
+   
 https://drive.google.com/file/d/1SS2jLQBQtS-sAzFxwraNvR0ea7FVJJxb/view?usp=sharing
