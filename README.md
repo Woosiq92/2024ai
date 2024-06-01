@@ -160,3 +160,8 @@ https://drive.google.com/file/d/1SS2jLQBQtS-sAzFxwraNvR0ea7FVJJxb/view?usp=shari
 
 https://drive.google.com/file/d/1_yD3-og79scBFQMsz03--qjUP3hRgF8d/view?usp=sharing
 
+2. 헬스케어 - 코로나 바이러스 데이터 분석 
+
+https://drive.google.com/file/d/1capyTT5QhV2J_hIKbm9DuZ-WbmJSQDNT/view?usp=sharing
+
+
